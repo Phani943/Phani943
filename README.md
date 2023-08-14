@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phani
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Ds,Js,Python
+- 🌱 I’m currently learning Ds,Js,Python,Dl
 - 💞️ I’m looking to collaborate on robotics projects
 - 📫 How to reach me
 
